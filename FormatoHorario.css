@@ -1,0 +1,106 @@
+
+
+body{
+    background-color: beige;
+}
+
+table, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    background-color: #a6a79f;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+}
+th{
+    color: aliceblue;
+    background-color: brown;
+    border: 2px solid;
+    border-color: #000000;
+    font-size:small;
+}
+
+caption{
+    font-size: larger;
+    font-family: cursive;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+
+
+.hora{
+    background-color:black;
+    color: aliceblue;
+    font-size: small;
+}
+.ingles{
+    background-color: blueviolet;
+}
+.fol{
+    background-color: aqua;
+}
+.programacion{
+    background-color: blue;
+}
+.sistemas{
+    background-color: bisque;
+}
+.tutoria{
+    background-color: #da5555;
+}
+.proyecto{
+    background-color: #ee7272;
+}
+.lenguajes{
+    background-color: #f50c0c;
+}
+.base{
+    background-color: aquamarine;
+}
+.entornos{
+    background-color: #21c32c;
+}
+.descanso{
+    background-color: brown;
+    color: rgb(246, 244, 242);
+    border-color: #000000;
+}
+.division{
+    color: rgb(244, 244, 244);
+}
+.blanco{
+    color: white;
+}
+
+ol{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.matriculado{
+    color: #21c32c;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.rubik-wet-paint-regular {
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #b30909;
+  }
+  .nomatri{
+    font-family: "Rubik Wet Paint", system-ui;
+    font-weight: 300;
+    font-style: normal;
+    list-style-type: georgian;
+    color: #b30909;
+  }
+  img {
+    width: 200px;  
+    height: auto;  
+}
+    div {
+     padding: 10px 20px;
+    }
+    h2{
+        padding-top: 30px;
+    }
